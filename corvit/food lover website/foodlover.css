@@ -1,0 +1,293 @@
+/*@font-face{
+	font-family: SuperbaBoldRoman;
+	src: URL(font/SuperbaBoldRoman.ttf);
+
+}*/
+
+@font-face{
+	font-family: AachenStdMedium;
+	src: URL(font/AachenStdMedium.otf);
+
+}
+
+
+
+
+.backdecor{
+	background-image: url(images/headerBackground.png) ;
+	height: auto;
+	width: 100%;
+/*	opacity: 25%;*/
+	mask-image: revert-layer;
+/*	mask:bg-rgba(0, 0, 0, 0.9) ;*/
+
+}
+
+.menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+/*  overflow: hidden;*/
+}
+
+.menu li {
+  float: left;
+  list-style-type: none;
+}
+
+.menu li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+
+}
+.menu{
+	font-family: AachenStdMedium;
+	font-size: 15px;
+	color: white;
+
+}
+/*.menu1{
+	color: white;
+	background-color: black;
+}*/
+.menu tr th{
+	margin: 10px;
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 25%;
+	opacity: 100%;
+}
+
+.menuhead1{
+	font-family: AachenStdMedium;
+	font-size: 30px;
+	color: warning;
+}
+.menuhead2{
+	font-family: AachenStdMedium;
+	font-size: 20px;
+	color: white;
+}
+.button1{
+	font-family: AachenStdMedium;
+	font-size: 20px;
+	background-color: #FFC045;
+
+
+}
+
+
+
+
+
+
+.backcolor{
+	background-color: black;
+}
+
+
+.image3{
+	height: 400px;
+}
+.about{
+	font-family: AachenStdMedium;
+	font-size: 30px;
+	color: white;
+}
+.about-exp{
+	font-family: AachenStdMedium;
+	font-size: 20px;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+.food-quality{
+	font-family: AachenStdMedium;
+	font-size: 30px;
+	color: white;
+}
+
+.food-quality1{
+	font-family: AachenStdMedium;
+	font-size: 20px;
+	color: white;
+
+}
+.section2{
+	height: 350px;
+	float: right;
+	padding-left: 240px ;
+}
+
+
+
+
+
+.Section4{
+	float: left;
+	height: 400px;
+
+}
+
+.Section3{
+	float: right;
+	height: 250px;
+}
+
+
+
+
+
+
+
+
+
+.image{
+	background-image: url(images/foodGallery/enjoy_food.png);
+	height: 600px;
+	width: auto;
+}
+
+.text-area{
+/*	opacity: 10px;*/
+	padding: 10px;
+	margin-block: 20px;
+	background-color: black;
+}
+
+/*.border2{
+	color: #FFC045;
+}*/
+
+.img-mid{
+	font-family: AachenStdMedium;
+	font-size: 25px;
+	color: white;
+}
+.img-mid1{
+    font-family: AachenStdMedium;
+	font-size: 20px;
+	color: white;
+/*	text-align: center;*/
+}
+
+.heading{
+	font-family: AachenStdMedium;
+	color: white;
+	font-size: 30px;
+
+}
+
+.image6{
+	height: 400px;
+	width: auto;
+}
+
+
+
+
+
+
+
+.heading-priceimg-TITILE{
+	font-family: AachenStdMedium;
+	font-size: 30PX;
+	color: #FFC045;
+	text-align: center;
+}
+.heading-priceimg{
+	font-family: AachenStdMedium;
+	font-size: 30PX;
+	color: #FFC045;
+}
+
+
+
+
+
+
+
+.backdecor-img3{
+	background-color: black;
+}
+.img3-3img{
+	height: 300px;
+	width: auto;
+	opacity: 100%;
+}
+.img-3img{
+	font-family: AachenStdMedium;
+	font-size: 15px;
+	color: white;
+}
+.price-tag{
+	font-family: AachenStdMedium;
+	font-size: 20px;
+	color: #FFC045;
+}
+
+
+
+
+
+
+
+
+
+
+.backcolor-last{
+	background-color: black;
+}
+.backcolor-overlay{
+	background-color: #FFC045;
+
+}
+.over-img1{
+	padding: 10px;
+}
+.over-img2{
+	font-family: AachenStdMedium;
+	font-size: 25px;
+/*	float: right;*/
+	color: white;
+	width: 40%;
+/*	margin-bottom: 10px ;*/
+	
+}
+.over-img3{
+	font-family: AachenStdMedium;
+	font-size: 15px;
+/*	float: right;*/
+	color: white;
+	width: 40%;
+	margin-top:30px ;
+
+}
+.float{
+	float: right;
+}
+
+.back-bar{
+	background-color:#FFC045 ;
+/*	height: 250px;*/
+/*	width: 100%;*/
+/*	padding: 30px;*/
+/*	position: absolute;*/
+/*	margin-top: 80px;*/
+}

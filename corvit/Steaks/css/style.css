@@ -1,0 +1,75 @@
+@font-face{
+	font-family: AachenStdMedium;
+	src: URL(font/AachenStdMedium.otf);
+
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	opacity: 100%;
+}
+
+.border2{
+	padding: 10px;
+	border-width: thin medium thick 10px ;
+	margin: 20px;
+	margin-right: 40px;
+}
+
+.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+/*  border: 2px solid;*/
+/*  overflow: hidden;*/
+}
+
+.menu li {
+  /*float: left;
+  list-style-type: none;*/
+}
+
+.menu li a {
+/*  display: block;*/
+  color: warning;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+
+}
+.menu{
+	font-family: AachenStdMedium;
+	font-size: 15px;
+	color: warning;
+
+}
+/*.menu1{
+	color: white;
+	background-color: black;
+}*/
+
+
+
+
+
+
+
+
+
+
+.backdecor{
+	background-image: url(../images/Background.png);
+}
+
+.backdecor2{
+	position: absolute;
+}
+
+
+
+
+

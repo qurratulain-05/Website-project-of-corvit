@@ -1,0 +1,59 @@
+@font-face{
+	font-family: SuperbaBoldRoman;
+	src: URL(font/SuperbaBoldRoman.ttf);
+
+}
+.backgroundcolor{
+	background-color: #FFC045;
+}
+
+
+
+.menu{
+/*	padding: 2px;*/
+	margin-top: 4px;
+/*	font-family: SuperbaBoldRoman;*/
+
+}
+
+.height{
+	margin-top: 100px;
+}
+
+.distance{
+	height: 100px;
+}
+.border1{
+/*	height: 50px;*/
+	border-style: dashed;
+	border-color: black;
+	font-family: SuperbaBoldRoman;
+	padding: 2px;
+
+
+}
+
+
+.burger{
+	font-family: SuperbaBoldRoman;
+	font-size: 70px;
+	font-style: bold;
+
+}
+.rightimagefont{
+	font-size: 15px;
+/*	color: white;*/
+	position: absolute;
+
+}
+.rightimagefont1{
+	font-size: 20px;
+/*	color: white;*/
+/*	float: left;*/
+
+}
+.h3{
+	position: absolute;
+	bottom: 20px;
+	left: 20px;
+}
